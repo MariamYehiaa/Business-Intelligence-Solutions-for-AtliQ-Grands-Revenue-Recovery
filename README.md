@@ -13,8 +13,8 @@ The project uses a structured dataset consisting of four CSV files representing 
 
 These files are used in Power BI to build a star schema model for visualizing hotel performance and business insights.
 ### 📊 DAX_MEASURES I MADE IN THE PROJECT
-![DAX_MEASURES1](https://raw.githubusercontent.com/MariamYehiaa/Business-Intelligence-Solutions-for-AtliQ-Grands-Revenue-Recovery/main/PowerBI_Dashboard.PNG)
-![DAX_MEASURES2](https://raw.githubusercontent.com/MariamYehiaa/Business-Intelligence-Solutions-for-AtliQ-Grands-Revenue-Recovery/main/PowerBI_Dashboard.PNG)
+![DAX_MEASURES1](https://raw.githubusercontent.com/MariamYehiaa/Business-Intelligence-Solutions-for-AtliQ-Grands-Revenue-Recovery/main/DAX_MEASURES1.PNG)
+![DAX_MEASURES2](https://raw.githubusercontent.com/MariamYehiaa/Business-Intelligence-Solutions-for-AtliQ-Grands-Revenue-Recovery/main/DAX_MEASURES2.PNG)
 ### 📊 PowerBI_Dashboard
 
 ![Power BI Dashboard](https://raw.githubusercontent.com/MariamYehiaa/Business-Intelligence-Solutions-for-AtliQ-Grands-Revenue-Recovery/main/PowerBI_Dashboard.PNG)
