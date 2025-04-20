@@ -15,5 +15,5 @@ These files are used in Power BI to build a star schema model for visualizing ho
 
 ### 📊 PowerBI_Dashboard
 
-./PowerBI_Dashboard.PNG
+PowerBI_Dashboard.PNG
 
