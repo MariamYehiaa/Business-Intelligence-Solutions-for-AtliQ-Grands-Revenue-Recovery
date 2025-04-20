@@ -1,1 +1,1 @@
-# Business-Intelligence-Solutions-for-AtliQ-Grands-Revenue-Recovery
+Problem statement:AtliQ Grands, a luxury hotel chain in India, has been experiencing a decline in market share and revenue in the luxury/business segment due to strong competition and poor management decisions. To recover, they aim to use Business and Data Intelligence. However, since they lack an internal data analytics team, their revenue management team decided to hire an external service provider to analyze their historical data and generate useful insights.
