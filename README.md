@@ -15,5 +15,6 @@ These files are used in Power BI to build a star schema model for visualizing ho
 
 ### 📊 PowerBI_Dashboard
 
-PowerBI_Dashboard.PNG
+![Power BI Dashboard](https://raw.githubusercontent.com/MariamYehiaa/Business-Intelligence-Solutions-for-AtliQ-Grands-Revenue-Recovery/main/PowerBI_Dashboard.PNG)
+
 
