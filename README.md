@@ -13,4 +13,7 @@ The project uses a structured dataset consisting of four CSV files representing 
 
 These files are used in Power BI to build a star schema model for visualizing hotel performance and business insights.
 
+### 📊 PowerBI_Dashboard
+
+./PowerBI_Dashboard.PNG
 
